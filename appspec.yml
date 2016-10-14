@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: COdeDeployDIYDemo
-    destination: C:\inetpub\wwwroot\diy
+    destination: C:\inetpub\wwwroot\diy\
