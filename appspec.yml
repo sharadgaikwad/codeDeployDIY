@@ -1,0 +1,9 @@
+version: 0.0
+os: windows
+files:
+  - source: WebAppp
+    destination: C:\inetpub\wwwroot\diy
+hooks:
+  BeforeInstall:
+    - location: \before-install.bat
+      timeout: 900
