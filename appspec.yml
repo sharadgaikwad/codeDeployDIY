@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: COdeDeployDIYDemo\WebAppp
-    destination: C:\inetpub\wwwroot\diy\
+    destination: C:\inetpub\hrbsite\
